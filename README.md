@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushamasghar&label=Profile%20views&color=0e75b6&style=flat" alt="khushamasghar" /> </p>
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://https://shahxaibx21-code.github.io/).
+- 👨‍💻 All of my projects are available in my [portfolio](https://shahxaibx21-code.github.io/).
 
 - 💬 Ask me about **Ethical Hacking And DevOps Things**
 

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Ethical Hacking And DevOps Things**
 
-- 📫 How to reach me **Khushamasghar7@gmail.com**
+- 📫 How to reach me **Shahzaibx21@gmail.com**
 
 - 📄Explore my experiences [here](https://drive.google.com/file/d/1WPP8RHmlwD2GIBdZTdX8N-orGq3_G3QL/view?usp=drive_link).
 

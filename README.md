@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Khusham Asghar</h1>
+<h1 align="center">Hi 👋, I'm Shahzaib Ahmed</h1>
 <h3 align="center">System Engineer | Penetration Tester | DevOps Engineer | Certified Ethical Hacking Master</h3>
 <img align="right" alt="Coding" width="370" src="back.gif">
 

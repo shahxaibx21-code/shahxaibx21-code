@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Shahzaib Ahmed</h1>
-<h3 align="center">System Engineer | Penetration Tester | DevOps Engineer | Certified Ethical Hacking Master</h3>
+<h3 align="center">Mobile Application Security Engineer | Full Stack Developer | Penetration Tester</h3>
 <img align="right" alt="Coding" width="370" src="back.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushamasghar&label=Profile%20views&color=0e75b6&style=flat" alt="khushamasghar" /> </p>
